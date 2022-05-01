@@ -101,7 +101,7 @@ di buatnya Projek Website ini dimaksudkan untuk melakukann pemilihan Calon Koord
 ![EVOTING - MAHASISWA (VOTES - KLIK SUBMIT)](https://user-images.githubusercontent.com/98871006/166156692-33d99ad1-67dc-470d-8251-4d14499729c1.png)
 
 - Logout
-![EVOTING - MAHASISWA (LOGOUT)](https://user-images.githubusercontent.com/98871006/166156658-e62c6cdd-0634-4551-ab78-369656e1dced.png
+![EVOTING - MAHASISWA (LOGOUT)](https://user-images.githubusercontent.com/98871006/166158020-e0eb2df7-41df-40c2-8e39-4a7a70bf2fe8.png)
 
 -------------------
 
